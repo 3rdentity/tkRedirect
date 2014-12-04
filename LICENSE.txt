@@ -32,16 +32,10 @@ information on what this means for you.
 
 ===LICENSED SOFTWARE===
 
-jQuery
-http://jquery.org/license
-
 Normalize -
 www.shasharala.tk/res/css/normalize/LICENSE.md
 
-Ubuntu Mono -
-www.shasharala.tk/res/fonts/UFL.txt
-
 ==============================================================================
-08/31/2014 - This license may change at any time without notice. Please
+12/03/2014 - This license may change at any time without notice. Please
 check back regularly.
 ==============================================================================
